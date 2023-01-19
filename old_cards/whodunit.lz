@@ -1,0 +1,7 @@
+You Dun It
+	tp:Whodunit
+	tx:It was you. You done it. Try to hide it if you like, but you know you did it. Why did you done it? How?
+
+Not You:6
+	tp:Whodunit
+	tx:It wasn't you, It could be any of the other players or someone else. You'll have to work it out.

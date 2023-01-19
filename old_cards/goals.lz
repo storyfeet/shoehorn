@@ -1,0 +1,125 @@
+True Love:
+	tp:Goal
+    gl0:A chance meeting.
+    gl1:A broken Heart.
+    gl2:A friend in need.
+    gl3:Some Bad advice.
+    gl4:A fight.
+    gl5:A second chance.
+	gl6:A kiss.
+
+Power:
+	tp:Goal
+	gl0:A desire for power.
+	gl1:A useful friend.
+	gl2:A locked room.
+	gl3:An opportunity.
+	gl4:A kind gesture.
+	gl5:A betrayal
+	gl6:A desire fulfilled.
+
+Victory:
+	tp:Goal
+	gl0:An enemy.
+	gl1:A Just Cause.
+	gl2:First blood.
+	gl3:An Ally
+	gl4:A battle.
+	gl5:A death.
+	gl6:A reckoning.
+
+Redemtion:
+	tp:Goal
+	gl0:A shame revealed.
+	gl1:A running away.
+	gl2:Some good advice.
+	gl3:A Crossroads.
+	gl4:An old aquaintence.
+	gl5:A second chance.
+	gl6:A new person.
+
+
+Journey Home:
+	tp:Goal
+	gl0:Far from home.
+	gl1:A friend for the road.
+	gl2:Bandits
+	gl3:A treasure untold.
+	gl4:A traitor.
+	gl5:An unfamiliar home.
+	gl6:A restoration.
+
+Rescue:
+	tp:Goal
+    gl0:Someone is missing.
+    gl1:A Clue.
+    gl2:An Injury.
+    gl3:A loose end.
+    gl4:A negotiation.
+    gl5:A daring Escape.
+	gl6:A Reunion
+
+Hero:
+	tp:Goal
+    gl0:A Call to adventure.
+    gl1:A discovery.
+    gl2:Someone in Need.
+    gl3:A change of heart.
+    gl4:A plan
+	gl5:A failure
+	gl6:A triumph
+
+The Heist:
+	tp:Goal
+    gl0:A story of a treasure.
+    gl1:Building a team.
+    gl2:A plan.
+    gl3:A trap.
+	gl4:A getaway.
+	gl5:The plan all along.
+	gl6:Dividing the spoils.
+
+Champion:
+	tp:Goal
+	gl0:A dream.
+	gl1:A superior rival.
+	gl2:A bet
+	gl3:An obscure rule.
+	gl4:A washed out mentor.
+	gl5:A backing out.
+	gl6:A victory.
+
+Vengence:
+	tp:Goal
+	gl0:A bad history
+	gl1:Someone to tell.
+	gl2:A reason to heal.
+	gl3:A meeting.
+	gl4:A plan.
+	gl5:A mockery.
+	gl6:A demise.
+
+The Hunt:
+	tp:Goal	
+	gl0:A bounty
+	gl1:An unusual method.
+	gl2:A revealing chat.
+	gl3:A chase.
+	gl4:A clue.
+	gl5:A fight.
+	gl6:A reward.
+	
+
+#Freedom:
+#	tp:Goal
+#	gl0:A speaker 
+
+Escort:
+	tp:Goal
+	gl0:A strange request.
+	gl1:What's in it for me?
+	gl2:A stowaway.
+	gl3:A capture.
+	gl4:A new transport.
+	gl5:A confrontation.
+	gl6:An Arrival.

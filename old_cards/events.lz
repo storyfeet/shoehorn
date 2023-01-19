@@ -1,0 +1,51 @@
+Pirates / Bandits
+    tp:Event
+	tx:Do they arrive? Were they waiting? What do they want from you?
+
+Police
+    tp:Event
+	tx:Do they arrive? Were they waiting? Did someone call them? Who do they work for?
+
+Clue
+    tp:Event
+	tx:Who discovers it? What does it look like? What does it mean? Does it help anyone?
+
+Its a Trap
+    tp:Event
+	tx:Who set it? Who falls for it?
+
+Argument
+    tp:Event
+	tx:Who is arguing? What about? How loud?
+
+Fight
+    tp:Event
+	tx:Who is fighting? Have you met them before? PC/NPC? 
+
+Long Lost Friend 
+    tp:Event
+	tx:Who's friend? What are they like? What do they want?
+
+Mysterious Stranger
+    tp:Event
+	tx:Do they want something? How do they show? Can they help you? Might they hurt someone?
+
+Market
+	tp:Event
+	tx:What's for sale? Does anyone you want to speak to come? Is this a specialist market?
+
+Fayre
+	tp:Event
+	tx:What's for sale? Who does this bring together? Could anything go wrong here?
+
+Grand Opening
+	tp:Event	
+	tx:What is being opened? What famous people are coming? What undesirables would come to an event like this?
+
+Crime Scene
+	tp:Event
+	tx:Is someone dead? Has something been robbed? Is anyone already investigating?
+
+Arrival
+	tp:Event
+	tx:Who arrives? Is it the group, or someone else? Was this expected?

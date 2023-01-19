@@ -1,0 +1,106 @@
+Priest:
+	tp:Role
+	gl0:Ernest Every,
+	gl1:Shalom Lamon,
+	gl2:Kalifa Halp,
+	gl3:Burden Brisk,
+
+King
+	tp:Role
+	gl0:Restopat,
+	gl1:George,
+	gl2:Miser Stripes,
+	gl3:Magnus Magnifique,
+
+Merchant
+	tp:Role
+	gl0:Kit Mianthrot,
+	gl1:Abu Kaseem,
+	gl2:Peter Eater,
+	gl3:Silky Steel
+
+Prince
+	tp:Role
+	gl0:Robert,
+	gl1:Galabad,
+	gl2:Norbert,
+	gl3:Richie Rickrickman,
+
+Princess
+	tp:Role
+	gl0:Charmina,
+	gl1:Bertha,
+	gl2:Sabrina,
+	gl3:Bubble,
+
+Handmaid:
+	tp:Role
+	gl0:Ivy Malady,
+	gl1:Glenda Grumpsa,
+	gl2:Daisy Dropsita,
+	gl3:Gala
+
+Commander:
+	gl0:Staunch Slimes,
+	gl1:Yolanda Salamander,
+	gl2:Guzzling Gray,
+	gl3:Raging Bull,
+	tp:Role
+
+Body Guard:
+	tp:Role
+	gl0:Ray Storping,
+	gl1:Guardy McGuardface,
+	gl2:Sly Moocher,
+	gl3:Daring Dash,
+
+
+Mechanic:
+	tp:Role
+	gl0:Snide Rool,
+	gl1:Cameron Wheel,
+	gl2:Greasy Mitts,
+
+Mystic:
+	tp:Role
+	gl0:Granny Wildersnax,
+	gl1:Arenbella,
+	gl2:Totom Tompo,
+	gl3:Astra Laplain
+
+Travelling Worker:
+	tp:Role
+	gl0:Ramble Grenkin,
+	gl1:Lee Socks,
+	gl2:Shifty Smith,
+	gl3:Pen Farthing,
+
+
+Detective:
+	tp:Role
+	gl0:Styles Malone,
+	gl1:Trudy Seat,
+	gl2:Benetal Crumpetstash,
+	gl3:Smirk Bently,
+
+Pirate Captain / Bandit Leader:
+	tp:Role
+	gl0:Goose Rogers,
+	gl1:Cpn Green-Wig,
+	gl2:Root Isme,
+	gl3:Ali Grabber,
+
+Diplomat:
+	tp:Role
+	gl0:Loris McDonson,
+	gl1:Will Toplease,
+	gl2:Abe Akander,
+	gl3:Samuel Ham,
+
+#Pilot:
+#	tp:Role
+#	gl0:Sky Rider,
+#	gl1:Iron Hide,
+#	gl2:Dan Dash,
+#	gl3:Shifty Dodge,
+

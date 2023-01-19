@@ -1,0 +1,30 @@
+Technology:
+    tp:Scene
+    tx:Describe a recently invented technology. Eg: The Wheel, Fire, Catapult, Hyperspace travel.
+
+Religion:
+    tp:Scene
+    tx:Describe a large monument, nearby. Eg: Temple/Church, Shrine, Scuplture.
+
+War and Peace:
+    tp:Scene 
+    tx:Is the current country/state you are in at war or peace? 
+
+Economics:
+    tp:Scene
+    tx:Who is the richest person around (Player or NPC). Why are they so rich?
+
+Ecology:
+    tp:Scene
+    tx:Name some commonly seen creatures where you are.
+
+Hazards:
+    tp:Scene
+    tx:Is there some thing that most people are afraid of?
+
+Outsiders:
+    tp:Scene
+    tx:Describe a person or group of people who do not fit in with Normal people.
+
+
+

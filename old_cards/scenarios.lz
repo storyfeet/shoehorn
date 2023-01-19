@@ -1,0 +1,24 @@
+Secret Meeting:
+    tp:Scenario
+	tx:Who has called the meeting? What are you discussing? Where are you meeting?
+
+Boat Trip:
+    tp:Scenario
+	tx:Where are you going? Who hired/owns the boat? What kind of boat is it.
+
+Prison Cell
+	tp:Scenario
+	tx:What country are you in? Can you see any guards?
+
+Banquet:
+	tp:Scenario
+	tx:Who is holding the banquet? What is the occasion?
+
+Deserted Island:
+	tp:Scenario
+	tx:How did you get here? 
+
+Crime Scene
+	tp:Scenario
+	tx:What appears to have happened? What are the police doing about it? Who is trying to find out more?
+

@@ -1,0 +1,146 @@
+Manipulative
+    tp:Trait
+	tx:Will always use underhanded ways to get what they want. Lays on heavy guilt where necessary.
+
+Uncaring
+    tp:Trait
+	tx:Nobody else's plight matters to you. 
+
+Proud
+    tp:Trait
+	tx:You are always looking for ways to show superiority to anyone.
+
+Coward
+    tp:Trait
+	tx:You run and hide at the slightest danger.
+
+Loyal to the Cause
+    tp:Trait
+	tx:What is the cause? What are you willing to sacrifice for it?
+
+Loyal to friends.
+	tp:Trait
+	tx:What makes someone a friend? What shows loyalty? Will you lie for them? 
+
+Brave
+    tp:Trait
+	tx:Nothing Scares you. You rush into danger for almost any reason.
+
+Greedy
+    tp:Trait
+	tx:The sight of gold, or anything else of value can be very distracting.
+
+Impulsive
+    tp:Trait
+	tx:You react quickly, not necessarily smartly. 
+
+Measured
+    tp:Trait
+	tx:You react slowly and deliberately. 
+
+Sensitive
+    tp:Trait
+	tx:Aware of everything going on around you, easily affected by it.
+
+Secretive
+    tp:Trait
+	tx:Just because it might be useful to someone to know something doesn't mean you should tell them.
+
+Honest
+    tp:Trait
+	tx:You have no problem telling people anything, as long as it's true. Some people don't like you for it. 
+
+Violent
+    tp:Trait
+	tx:If people are in the way, then fight them.\n if people won't help you, they are the enemy.
+
+Patient
+    tp:Trait
+	tx:You are happy to wait long periods without doing anything.\n For a purpose.
+
+Smelly
+    tp:Trait
+	tx:People don't stay talking to you for long, though nobody tells you why.
+
+Talkative
+    tp:Trait
+	tx:You talk so much that you may miss out on important info, as you were too busy talking.
+
+Compassionate
+    tp:Trait
+	tx:If you see someone in trouble, you must help them. Forgetting what you were doing, no matter the cost.
+
+Pacifist
+    tp:Trait
+	tx:You want peace, globally, and locally. You will do whatever it takes to stop a fight between others.
+
+
+Mercenary
+    tp:Trait
+	tx:Can be persuaded to do anything for money.
+
+Short
+    tp:Trait
+	tx:Can go through small places, but can't reach high shelves.
+
+Tall
+    tp:Trait
+	tx:Nothing is out of reach, especially if you can stand on someone else's shoulders.
+
+Spendaholic
+    tp:Trait
+	tx:Buys the best and worst of everything. Loves the feeling of buying new things. Not to be trusted with treasure.
+
+Tight Fisted
+    tp:Trait
+	tx:Eats the cheapest food, doesn't waste money on armour, avoids spending money at all (other) costs.
+
+Generous
+    tp:Trait
+	tx:You love to give what you have to those around you. Not to be trusted with treasure.
+
+Optimist
+    tp:Trait
+	tx:You always believe things will go well, and act like they will, even when the stakes are high
+
+Pessimist
+    tp:Trait
+	tx:You always assume bad things are about to happen. Avoid taking risks. 
+
+Kind
+    tp:Trait
+	tx:Kindness is it's own reward. A good thing, as kindness to the wrong people can be very costly.
+
+Cruel
+    tp:Trait
+	tx:You take great delight in seeing people suffer. Even your friends are careful to avoid your wrath.
+
+Handsome / Beautiful
+    tp:Trait
+	tx:People admire you wherever you go. They love to help you. But some people might get jealous.
+
+Scary looking
+    tp:Trait
+	tx:People avoid you when they see you. Some even run away, especially children.
+
+Bitter
+    tp:Trait
+	tx:Scorned by the world for too long, and wearied by everything. Now its time for the world to be scorned by you.
+	#Hard to act on perhaps. consider replacing
+
+Gossip:
+	tp:Trait
+	tx:You always talk about people behind their back. Known to accidently reveal important secrets to the wrong people.
+
+Rebel:
+	tp:Trait
+	tx:You never do what you're told. 
+
+Promise Keeper:
+	tp:Trait
+	tx:Your word is your bond. If you say you will do something, then you will. No matter the cost.
+
+Trickster
+    tp:Trait
+    tx:To lead people on, to make traps. To get what you want by deception. This is your way of life.
+

@@ -1,0 +1,149 @@
+Lock Pick
+    tp:Skill
+	tx:Open any door, chest or other lock.
+	extra:I open that chest...
+
+Weapons Expert
+    tp:Skill
+	tx:You win any fight as long as you have a sword.
+	extra:I attack him and take his bag...
+
+Stealth
+    tp:Skill
+	tx:You can go anywhere unnoticed.
+	extra:I sneak past them to the ...
+
+Mechanic
+    tp:Skill
+	tx:Can fix anything with moving parts.
+	extra:I repair the ...
+
+Polyglot
+    tp:Skill
+	tx:Can speak any language, even Cockney. 
+	extra:I talk to the cat ...
+
+Persuasive
+    tp:Skill
+	tx:People do what you say.
+	extra:I tell the guard to bring me the key...
+
+Dodge
+    tp:Skill
+	tx:Can evade punches, projectiles, and nasty chores.
+	extra: I weave through the brawl to find ...
+
+Barter
+    tp:Skill
+	tx:Trades are always in your favour.
+	extra:I give him this fish in exchange for ...
+
+Brawler
+    tp:Skill
+	tx:You always come out on top in hand to hand combat.
+	extra:I thrown him through a window ... 
+
+Tailor
+    tp:Skill
+	tx:Can dress themselves and anyone else to fit any occasion
+	extra: I dress as a princess ... 
+	
+Artist
+    tp:Skill
+	tx:Great works of art open all kinds of doors. Copies too.
+	extra: I create a copy of the artifact ...
+
+Actor
+    tp:Skill
+	tx:You can be anyone if needed.
+	extra: I act as an official to ... 
+
+Strategist
+    tp:Skill
+	tx:Plans you make involving more than one person are likely to succeed, as long as everyone plays their part.
+
+Medic
+    tp:Skill
+	tx:Can heal any ailment, as long as you can get hold of the needed ingredients/equipment. 
+	extra: I sew their arm back on ...
+
+Sniper
+    tp:Skill
+	tx:Projectiles always hit their mark, whatever that mark might be.
+	extra: I throw it my hat at the switch behind the guard ... 
+
+MacGyver
+    tp:Skill
+    tx:Can combine any two things into something 
+	extra: I put the eagles wings onto the car to make an aeroplane ...
+
+Pilot
+    tp:Skill
+    tx:Can drive any vehicle 
+	extra: I drive the chariot up the ravine ... 
+
+Jumper
+    tp:Skill
+    tx:Can make massive and precise leaps
+	extra: I jump from my ship onto the pirates ship ...
+
+Vigilance
+	tp:Skill
+	tx:Nothing can sneak up on you.
+	extra:I see someone coming...
+
+Lore Expert
+	tp:Skill
+	tx:Knows about all kinds of things that no-one could expect.
+	extra: I remember that all Escondian ships are made with a ...
+
+Observant
+	tp:Skill
+	tx:You Spot clues everywhere
+	extra:I notice a nail file in corner of the room...
+
+Strong
+	tp:Skill
+	tx:You can lift incredibly heavy things, and break others.
+	extra:I throw the cannon at the mast...
+
+
+Came Prepared
+	tp:Skill
+	tx:Remembered to pack exactly what you'd need. Can produce almost anything from your bag.
+	extra:Its a good thing I remembered to bring my ...
+
+Empathic
+    tp:Skill
+	tx:Just looking at someone you can understand their whole life story.
+	extra:I realize he is just looking for love...
+
+Swimmer
+	tp:Skill
+	tx:You can swim long distances, and quickly. Even upstream.
+	extra:I swim up the sewer pipe ...
+
+Pick Pocket
+	tp:Skill
+	tx:You can take anything from anyone without them noticing.
+	extra:I take his keys without him noticing...
+
+Speed
+	tp:Skill
+	tx:You can get anywhere quicker than anyone else. You always react fast.
+	extra:I run to tell the boss first...
+
+Climb
+	tp:Skill
+	tx:Scale anything even soapy marble.
+	extra:I climb on the giant's back ...
+
+Walking Map
+	tp:Skill
+	tx:You know where you are, and where everything is within miles.
+	extra:I remember that there is a tavern just north of here ...
+
+#Explosives Expert
+#Perceptive
+#Wisdom
+#Charming
