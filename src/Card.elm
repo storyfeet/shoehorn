@@ -7,11 +7,10 @@ type CardType =
     | Scene
     | Lore
     | Action
+    | Role
 
    
-type Interupt =
-    InTurn
-    | InWords (List String)
+type alias Interupt = List String
 
 type alias Card = 
     { name : String
@@ -19,11 +18,10 @@ type alias Card =
     , tx : String
     , interupts : Interupt
     }
-    
 
 lore : String -> String -> Card
 lore nm tx =
-    Card nm Lore tx InTurn
+    Card nm Lore tx ["Because when"]
 
 
 loreCards : List Card
@@ -45,7 +43,7 @@ loreCards =
 
 goal : String -> List String -> Card
 goal name goals =
-    Card name (Goal goals) "" InTurn
+    Card name (Goal goals) "" []
 
 goalCards : List Card
 goalCards =
@@ -74,3 +72,7 @@ goalCards =
     , goal "Escort"
         [ "A strange request","What's in it for me?","A stowaway","A capture","A new transport","A confrontation","An Arrival" ]    
     ]
+
+role : String -> Card
+role nm = Card nm Role "" []
+
