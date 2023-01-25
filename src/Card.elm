@@ -8,6 +8,7 @@ type CardType =
     | Lore
     | Action
     | Role
+    | Mob
 
    
 type alias Interupt = List String
@@ -73,6 +74,42 @@ goalCards =
         [ "A strange request","What's in it for me?","A stowaway","A capture","A new transport","A confrontation","An Arrival" ]    
     ]
 
-role : String -> Card
-role nm = Card nm Role "" []
+role : String -> List String-> Card
+role nm interupts= Card nm Role "" interupts
+
+roles : List Card
+roles = 
+    [ role "Priest" ["By the Gods"]
+    , role "King" ["Royal","Majesty","Herald"]
+    , role "Merchant" ["Money","Sale","Purchase"]
+    , role "Prince" ["Father","Scrawny"]
+    , role "Princess" []
+    , role "Handmaid" ["Clean","My Lady"]
+    , role "Commander" []
+    , role "Body Guard" []
+    , role "Mechanic" []
+    , role "Mystic" []
+    , role "Travelling Worker" []
+    , role "Detective" []
+    , role "Pirate Captain / Bandit Leader" []
+    , role "Diplomat" []
+    , role "Pilot" []
+    ]
+
+mob : String -> List String -> Card
+mob nm ls = Card nm Mob "" ls
+
+mobs : List Card
+mobs = 
+    [ mob "Bandits" []
+    , mob "Crowd" []
+    , mob "Police" []
+    , mob "Soldiers" []
+    , mob "Angry Mob" [] 
+    , mob "Troop of Actors" []
+    , mob "Construction Workers" []
+    ]
+
+
+
 
